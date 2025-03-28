@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Meerah Schaum
+# 👋 Hi, I'm Mira!
 
 I'm a **technical writer** passionate about turning complex ideas into clear, structured, and user-friendly documentation.
 
