@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Meerah Schaum
 
-<!--
-**M33rschaum/M33rschaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **technical writer** passionate about turning complex ideas into clear, structured, and user-friendly documentation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 What I Do
+
+- ✍️ Create **user guides, manuals, and onboarding materials**
+- 📚 Write **API documentation** for developers
+- 🧭 Build **structured content** using DITA and Markdown
+- 🔍 Collaborate with dev teams, product owners, and QA
+- 🎯 Focus on **clarity, consistency, and usability**
+
+---
+
+### 🛠 Tools & Skills
+
+Markdown • Git • DITA • Oxygen XML • Confluence • FrameMaker • MadCap Flare  
+• Postman • Jira • Visual Studio Code
+
+---
+
+### 📁 Featured Project
+
+📌 [**Technical Writing Portfolio**](https://github.com/M33rschaum/technical-writing-portfolio)  
+Browse writing samples: API docs, user guides, FAQs, and more.
+
+---
+
+### 📍 Based in Sofia, Bulgaria
+
+Let's connect:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/miroslava-dimitrova/)  
+📫 Or reach out via GitHub messages anytime!
+
+---
