@@ -4,19 +4,21 @@ I'm a **technical writer** passionate about turning complex ideas into clear, st
 
 ---
 
-### 🧰 What I Do
+## 🧰 What I Do
 
-- ✍️ Create **user guides, manuals, and onboarding materials**
+- ✍️ Create **user guides, manuals, tutorials, and onboarding materials**
 - 📚 Write **API documentation** for developers
-- 🧭 Build **structured content** using DITA and Markdown
+- 📐 Build **structured content** using Markdown (and exploring DITA)
+- 🧑‍🏫 Develop **lectures, exercises, exams, and training content** for educational and technical topics
 - 🔍 Collaborate with dev teams, product owners, and QA
 - 🎯 Focus on **clarity, consistency, and usability**
+- 🎓 Pursuing a **PhD in Informatics**, researching the use of **blockchain** and **retrieval-augmented generation (RAG)** in **large language models (LLMs)**
 
 ---
 
 ## 🔧 What’s in My Toolbox
 
-These are the languages, tools, and technologies I work with or have fundamental knowledge in:
+These are the languages, tools, and technologies I work with or have fundamental knowledge of:
 
 ### 🧑‍💻 Languages & Markup
 
