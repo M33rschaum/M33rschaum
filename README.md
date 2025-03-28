@@ -70,8 +70,9 @@ Browse writing samples: API docs, user guides, FAQs, and more.
 
 📍 **Based in Sofia, Bulgaria**
 
-Let’s connect:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)[![Email](https://img.shields.io/badge/Email-mddimitrova@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:mddimitrova@gmail.com)
+Let’s connect:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-mddimitrova@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mddimitrova@gmail.com)
 
 ---
