@@ -72,8 +72,6 @@ Browse writing samples: API docs, user guides, FAQs, and more.
 
 Let’s connect:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
-
-📬 **Email:** [your.email@example.com](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK) 📬 **Email:** [your.email@example.com](mailto:mddimitrova@gmail.com)
 
 ---
