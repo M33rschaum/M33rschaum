@@ -14,7 +14,7 @@ I'm a **technical writer** passionate about turning complex ideas into clear, st
 
 ---
 
-## 🚀 Let's talk tech
+## 🔧 What’s in My Toolbox
 
 These are the languages, tools, and technologies I work with or have fundamental knowledge in:
 
