@@ -68,10 +68,12 @@ Browse writing samples: API docs, user guides, FAQs, and more.
 
 ---
 
-### 📍 Based in Sofia, Bulgaria
+📍 **Based in Sofia, Bulgaria**
 
-Let's connect:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/miroslava-dimitrova/)  
-📫 Or reach out via GitHub messages anytime!
+Let’s connect:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
+
+📬 **Email:** [your.email@example.com](mailto:your.email@example.com)
 
 ---
