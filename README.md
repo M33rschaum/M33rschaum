@@ -16,8 +16,14 @@ I'm a **technical writer** passionate about turning complex ideas into clear, st
 
 ### 🛠 Tools & Skills
 
-Markdown • Git • DITA • Oxygen XML • Confluence • FrameMaker • MadCap Flare  
-• Postman • Jira • Visual Studio Code
+**Documentation & Writing:**  
+Markdown • Confluence • GitHub Wiki • Visual Studio Code • Paint.NET  
+
+**Testing & QA Tools:**  
+TestRail • Selenium • JMeter • K6 • Appium • Postman • Jira  
+
+**Tech Skills:**  
+SQL • HTML • CSS • Fundamentals of C#
 
 ---
 
