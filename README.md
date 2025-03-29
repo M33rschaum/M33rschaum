@@ -27,7 +27,7 @@ These are the languages, tools, and technologies I work with or have fundamental
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)
-(https://img.shields.io/badge/just%20the%20message-8A2BE2)
+![C# Fundamentals](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 
 ---
 
