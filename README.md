@@ -22,12 +22,12 @@ These are the languages, tools, and technologies I work with or have fundamental
 
 ### 🧑‍💻 Languages & Markup
 
-![C# Fundamentals](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C# Fundamentals](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp-fundamentals&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)
-![C# Fundamentals](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+
 
 ---
 
