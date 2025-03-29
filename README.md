@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mira!
 
-I'm a **technical writer** passionate about turning complex ideas into clear, structured, and user-friendly documentation.
+I'm a **technical writer / content developer** passionate about turning complex ideas into clear, structured, and user-friendly documentation.
 
 ---
 
