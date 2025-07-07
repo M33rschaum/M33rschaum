@@ -8,7 +8,7 @@ I'm a **technical writer / content developer** passionate about turning complex 
 
 - ✍️ Create **user guides, manuals, tutorials, and onboarding materials**
 - 📚 Write **API documentation** for developers
-- 📐 Build **structured content** using Markdown (and exploring DITA)
+- 📐 Build **structured content** using Markdown (currently exploring DITA)
 - 🧑‍🏫 Develop **lectures, exercises, exams, and training content** for educational and technical topics
 - 🔍 Collaborate with dev teams, product owners, and QA
 - 🎯 Focus on **clarity, consistency, and usability**
