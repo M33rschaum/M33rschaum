@@ -52,6 +52,7 @@ These are the languages, tools, and technologies I work with or have fundamental
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge)
 ![Appium](https://img.shields.io/badge/Appium-00BFFF?style=for-the-badge)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![Allure Report](https://img.shields.io/badge/Allure%20Report-000000?style=for-the-badge&logo=allure&logoColor=white)
 
 ---
 
